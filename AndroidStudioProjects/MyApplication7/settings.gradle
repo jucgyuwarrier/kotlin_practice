@@ -1,0 +1,34 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "MyApplication7"
+include ':app'
+include ':ch6_view'
+include ':ch7_layoutview'
+include ':ch7_layout_weight'
+include ':ch7_layout_weight2'
+include ':ch7_layout_weight3'
+include ':ch7_layout_gravity'
+include ':ch7_layout_gravity2'
+include ':ch7_layouy_relativelayout'
+include ':ch7_layout_relativelayout'
+include ':ch7_layout_relativelayout2'
+include ':ch7_framelayout'
+include ':ch7_gridlayout1'
+include ':ch7_gridlayout2'
+include ':ch8_Event'
+include ':ch9_resource'
+include ':ch9_conditional_resource'
+include ':ch9_multilingual_resource'
+include ':ch9_resource_introduction'

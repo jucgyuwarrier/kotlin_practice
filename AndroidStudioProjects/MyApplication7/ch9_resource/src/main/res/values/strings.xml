@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ch9_resource</string>
+    <string name="txt_data1">리소스 스트링에서 끌어오기 예시1</string>
+    <string name="txt_data2">World</string>
+</resources>

@@ -1,0 +1,1 @@
+class InvaildNameException(message: String) : Exception(message)

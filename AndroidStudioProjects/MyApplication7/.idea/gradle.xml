@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../spring/gradle-4.10.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/ch6_view" />
+            <option value="$PROJECT_DIR$/ch7_framelayout" />
+            <option value="$PROJECT_DIR$/ch7_gridlayout1" />
+            <option value="$PROJECT_DIR$/ch7_gridlayout2" />
+            <option value="$PROJECT_DIR$/ch7_layout_gravity" />
+            <option value="$PROJECT_DIR$/ch7_layout_gravity2" />
+            <option value="$PROJECT_DIR$/ch7_layout_relativelayout" />
+            <option value="$PROJECT_DIR$/ch7_layout_relativelayout2" />
+            <option value="$PROJECT_DIR$/ch7_layout_weight" />
+            <option value="$PROJECT_DIR$/ch7_layout_weight2" />
+            <option value="$PROJECT_DIR$/ch7_layout_weight3" />
+            <option value="$PROJECT_DIR$/ch7_layoutview" />
+            <option value="$PROJECT_DIR$/ch7_layouy_relativelayout" />
+            <option value="$PROJECT_DIR$/ch8_Event" />
+            <option value="$PROJECT_DIR$/ch9_conditional_resource" />
+            <option value="$PROJECT_DIR$/ch9_multilingual_resource" />
+            <option value="$PROJECT_DIR$/ch9_resource" />
+            <option value="$PROJECT_DIR$/ch9_resource_introduction" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
